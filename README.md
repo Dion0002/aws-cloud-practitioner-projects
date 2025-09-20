@@ -11,6 +11,7 @@ This repository demonstrates core AWS services using Free Tier whenever possible
 | Project | Services 
 |---------|----------|
 | **Project 1 – Static Website Hosting** | S3, CloudFront |
+| **Project 2 – AWS Serverless API** | DynamoDB, Lambda, API Gateway, CloudWatch |
 
 ---
 
@@ -18,6 +19,7 @@ This repository demonstrates core AWS services using Free Tier whenever possible
 
 aws-cloud-practitioner-projects/
 │── aws-static-website/ # Project 1
+│── aws-serverless-api/ # Project 2
 
 ---
 
