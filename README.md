@@ -18,8 +18,10 @@ This repository demonstrates core AWS services using Free Tier whenever possible
 ## 🔹 Repository Structure
 
 aws-cloud-practitioner-projects/
-│── aws-static-website/ # Project 1
-│── aws-serverless-api/ # Project 2
+│
+├── aws-static-website/ # Project 1
+│
+└── aws-serverless-api/ # Project 2
 
 ---
 
